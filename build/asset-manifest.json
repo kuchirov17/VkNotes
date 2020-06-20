@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/VkNotes/static/css/main.981f7211.chunk.css",
+    "main.js": "/VkNotes/static/js/main.d1066edd.chunk.js",
+    "main.js.map": "/VkNotes/static/js/main.d1066edd.chunk.js.map",
+    "runtime-main.js": "/VkNotes/static/js/runtime-main.f14f218a.js",
+    "runtime-main.js.map": "/VkNotes/static/js/runtime-main.f14f218a.js.map",
+    "static/css/2.86df01db.chunk.css": "/VkNotes/static/css/2.86df01db.chunk.css",
+    "static/js/2.23013b94.chunk.js": "/VkNotes/static/js/2.23013b94.chunk.js",
+    "static/js/2.23013b94.chunk.js.map": "/VkNotes/static/js/2.23013b94.chunk.js.map",
+    "index.html": "/VkNotes/index.html",
+    "precache-manifest.8a5ade7f1b6354b1635f1a339ab224a1.js": "/VkNotes/precache-manifest.8a5ade7f1b6354b1635f1a339ab224a1.js",
+    "service-worker.js": "/VkNotes/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/VkNotes/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.981f7211.chunk.css.map": "/VkNotes/static/css/main.981f7211.chunk.css.map",
+    "static/js/2.23013b94.chunk.js.LICENSE.txt": "/VkNotes/static/js/2.23013b94.chunk.js.LICENSE.txt",
+    "static/media/persik.png": "/VkNotes/static/media/persik.4e1ec840.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f14f218a.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.23013b94.chunk.js",
+    "static/css/main.981f7211.chunk.css",
+    "static/js/main.d1066edd.chunk.js"
+  ]
+}
